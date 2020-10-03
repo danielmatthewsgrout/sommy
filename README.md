@@ -43,6 +43,6 @@ Pass a vector to this and it will return the x,y coordinates of the best matchin
 
 ## Details
 
-__Author__ @danielmatthewsgrout <dan@dmg.dev>  
+__Author__ Daniel Matthews-Grout <dan@dmg.dev>  
 __Licence__ MIT  
 __Current Version__ 1.0.0  
