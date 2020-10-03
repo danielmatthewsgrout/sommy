@@ -16,7 +16,7 @@
 ### Generating a Map from Vectors
 
 ```go
-TrainBasicSOM(dimensions, xySize, maxSteps int, learningDecayRate float64, vectors [][]float64) SelfOrgMap
+func TrainBasicSOM(dimensions, xySize, maxSteps int, learningDecayRate float64, vectors [][]float64) SelfOrgMap
 ```
 
 * __dimensions__ - the dimensionality of the vectors
